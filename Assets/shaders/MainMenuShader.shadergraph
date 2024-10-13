@@ -367,8 +367,8 @@
     "m_ShaderOutputName": "Frequency",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 3.0,
-        "y": 3.0
+        "x": 5.0,
+        "y": 5.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -618,9 +618,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.0032301810570061208,
-        "g": 0.0,
-        "b": 0.6830188035964966,
+        "r": 0.01679002121090889,
+        "g": 0.014902060851454735,
+        "b": 0.3433961868286133,
         "a": 0.0
     },
     "isMainColor": false,
@@ -1188,9 +1188,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 1.0,
+        "r": 0.3962264060974121,
         "g": 0.0,
-        "b": 0.0,
+        "b": 0.2896735966205597,
         "a": 0.0
     },
     "isMainColor": false,
